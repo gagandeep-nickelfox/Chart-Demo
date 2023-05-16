@@ -7,9 +7,6 @@ import com.gagan.chartdemo.databinding.ActivityMainBinding
 import com.github.mikephil.charting.data.Entry
 import com.github.mikephil.charting.data.LineData
 import com.github.mikephil.charting.data.LineDataSet
-import com.github.mikephil.charting.formatter.IFillFormatter
-import com.github.mikephil.charting.interfaces.dataprovider.LineDataProvider
-import com.github.mikephil.charting.interfaces.datasets.ILineDataSet
 
 class MainActivity : AppCompatActivity() {
 

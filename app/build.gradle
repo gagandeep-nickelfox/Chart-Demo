@@ -8,7 +8,7 @@ android {
     buildToolsVersion "33.0.0"
 
     defaultConfig {
-        applicationId "com.gagan.chartdemo"
+        applicationId "com.nickelfox.chartdemo"
         minSdk 23
         targetSdk 33
         versionCode 1
